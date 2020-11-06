@@ -13,6 +13,13 @@ public class NewClass {
     
     public NewClass(){
         System.out.println("Instance of new class.");
+        
+        System.out.println("new changes.");
+        System.out.println("new changes.");
+        System.out.println("new changes.");
+        
+        
     }
     
+
 }
