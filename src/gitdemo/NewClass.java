@@ -11,4 +11,8 @@ package gitdemo;
  */
 public class NewClass {
     
+    public NewClass(){
+        System.out.println("Instance of new class.");
+    }
+    
 }
