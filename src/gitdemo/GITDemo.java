@@ -18,6 +18,10 @@ public class GITDemo {
         // TODO code application logic here
         
         System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
+        
     }
     
 }
