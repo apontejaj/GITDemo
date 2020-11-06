@@ -19,8 +19,12 @@ public class GITDemo {
         
         System.out.println("Hello world");
         System.out.println("Hello world");
-        System.out.println("Hello world");
-        System.out.println("Hello world");
+        
+        
+        System.out.println("some more changes");
+        System.out.println("some more changes");
+        System.out.println("some more changes");
+        
         
     }
     
